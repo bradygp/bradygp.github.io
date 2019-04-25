@@ -19,3 +19,8 @@ Or [view the live demo here](https://saikrishna.me).
 2. Update site name and description in gatsby-config.js
 3. Update images in src/assets/images/
 4. Update description in src/pages/index.js
+
+## Reference
+ - [Docker Image](https://github.com/aripalo/gatsby-docker)
+ - [Starter Template](https://www.gatsbyjs.org/starters/s-kris/gatsby-minimal-portfolio-blog/)
+ - [Starter Template Gitlab](https://github.com/s-kris/gatsby-minimal-portfolio-blog)
