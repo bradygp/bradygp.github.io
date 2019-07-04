@@ -1,5 +1,3 @@
-const data = `Written by Sai Krishna who loves to build new stuff.
-Sometimes not really useful but cool stuff. Previously built SpotPlay,
-mHotspot, reymusic.co`
+const data = `Brady has worked has a full-stack developer since 2013. He enjoys Tabletop Role Playing Games (Pathfinder) and competes in Nosework with his dog Cecil.`
 
 export default data
