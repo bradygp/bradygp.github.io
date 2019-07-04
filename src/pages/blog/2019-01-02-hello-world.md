@@ -2,7 +2,7 @@
 title: Hello World
 path: '/blog/hello-world/'
 date: 2019-01-02T09:14:52+00:00
-author: admin
+author: Brady Pacha
 type: post
 ---
 
