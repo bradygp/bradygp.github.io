@@ -1,4 +1,4 @@
-# gatsby-minimal-portfolio-blog
+# gatsby-minimal-portfolio-blog 
 
 GatsbyJS starter (based on [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)) for a minimal portfolio website with blog. Suitable for developers.
 
